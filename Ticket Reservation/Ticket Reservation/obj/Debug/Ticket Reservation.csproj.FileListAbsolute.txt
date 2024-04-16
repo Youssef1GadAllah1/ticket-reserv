@@ -1,7 +1,0 @@
-C:\Users\youssef.ahmed\Downloads\yousef\Ticket Reservation\Ticket Reservation\bin\Debug\Ticket Reservation.exe.config
-C:\Users\youssef.ahmed\Downloads\yousef\Ticket Reservation\Ticket Reservation\bin\Debug\Ticket Reservation.exe
-C:\Users\youssef.ahmed\Downloads\yousef\Ticket Reservation\Ticket Reservation\bin\Debug\Ticket Reservation.pdb
-C:\Users\youssef.ahmed\Downloads\yousef\Ticket Reservation\Ticket Reservation\obj\Debug\Ticket Reservation.csproj.AssemblyReference.cache
-C:\Users\youssef.ahmed\Downloads\yousef\Ticket Reservation\Ticket Reservation\obj\Debug\Ticket Reservation.csproj.CoreCompileInputs.cache
-C:\Users\youssef.ahmed\Downloads\yousef\Ticket Reservation\Ticket Reservation\obj\Debug\Ticket Reservation.exe
-C:\Users\youssef.ahmed\Downloads\yousef\Ticket Reservation\Ticket Reservation\obj\Debug\Ticket Reservation.pdb
